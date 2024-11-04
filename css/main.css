@@ -11,6 +11,7 @@ body {
   background-color: #999;
 }
 
+
 #hero .d-flex{
   height: 70vh;
 }
@@ -56,4 +57,8 @@ footer a {
   background-color: #5EC2B2;
   color: #fff;
   border-radius: 20px;
+}
+
+.bg-blue {
+  background-color: #3B5998;
 }

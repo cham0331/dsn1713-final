@@ -1,0 +1,7 @@
+#hero {
+  background-image: url(../images/hero-2.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #999;
+}
