@@ -1,0 +1,59 @@
+body {
+  font-family: "Nunito", sans-serif;
+
+}
+
+#hero {
+  background-image: url(../images/hero-blue.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #999;
+}
+
+#hero .d-flex{
+  height: 70vh;
+}
+
+.imgresize {
+
+  max-width: 90px;
+  
+  /* text-align: center; */
+}
+
+.aboutme {
+  background-color:#535B7C
+}
+
+header {
+  background-color: #fff;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+.clr-fb {
+  color: #3B5998;
+}
+
+.clr-insta {
+  color: #D0358E;
+}
+
+.clr-email {
+  color: #00A79D;
+} 
+.btn-contact {
+  margin-top: 8px;
+  background-color: blueviolet;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.btn-contact:hover {
+  background-color: #5EC2B2;
+  color: #fff;
+  border-radius: 20px;
+}
